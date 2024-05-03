@@ -183,3 +183,31 @@ margin-right: 30px
 	position: relative;
 	right: -500px;
 }
+@media(max-width:530px) {
+	body{
+		background-color: red;
+	}
+
+	.telefono-1{
+	top: 200px;
+	position: relative;
+	left: 10px;
+}
+.telefono-2{
+	top: -200px;
+	position: relative;
+	left: 10px;
+}
+.telefono-3{
+	top: -600px;
+	position: relative;
+	right: -10px;
+
+}
+.telefono-4{
+	top: -1000px;
+	position: relative;
+	right: -10px;
+}
+
+}
